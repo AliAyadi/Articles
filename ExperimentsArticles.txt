@@ -1,0 +1,29 @@
+Article1: Transfer, Transformation, and Impacts of Ceria Nanomaterials in Aquatic Mesocosms Simulating a Pond Ecosystem.
+Reférence:Marie, T., Me´lanie, A., Lenka, B., Julien, I., Isabelle, K., Christine, P., ... and Je´ro^me, R. (2014). Transfer, transformation, and impacts of ceria nanomaterials in aquatic mesocosms simulating a pond ecosystem. Environmental science & technology, 48(16), 9004-9013.
+
+Article2:Chronic dosing of a simulated pond ecosystem in indoor aquatic mesocosms: fate and transport of CeO 2 nanoparticles;
+Reférence:Tella, M., Auffan, M., Brousset, L., Morel, E., Proux, O., Chanéac, C., ... and Rose, J. (2015). Chronic dosing of a simulated pond ecosystem in indoor aquatic mesocosms: fate and transport of CeO 2 nanoparticles. Environmental Science: Nano, 2(6), 653-663.
+
+Article3:Environmental exposure of a simulated pond ecosystem to a CuO nanoparticle-based wood stain throughout its life cycle.
+Reférence:Auffan, M., Liu, W., Brousset, L., Scifo, L., Pariat, A., Sanles, M., ... and Rose, J. (2018). Environmental exposure of a simulated pond ecosystem to a CuO nanoparticle-based wood stain throughout its life cycle. Environmental Science: Nano, 5(11), 2579-2589.
+
+Article4:Structural and physical–chemical behavior of a CeO 2 nanoparticle based diesel additive during combustion and environmental release.
+Reférence:Auffan, M., Tella, M., Liu, W., Pariat, A., Cabié, M., Borschneck, D., ... and Rose, J. (2017). Structural and physical–chemical behavior of a CeO 2 nanoparticle based diesel additive during combustion and environmental release. Environmental Science: Nano, 4(10), 1974-1980.
+
+Article5:Toxicity of CeO2 nanoparticles on a freshwater experimental trophic chain: A study in environmentally relevant conditions through the use of mesocosms.
+Reférence:Bour, A., Mouchet, F., Cadarsi, S., Silvestre, J., Verneuil, L., Baqué, D., ... and Fourquaux, I. (2016). Toxicity of CeO2 nanoparticles on a freshwater experimental trophic chain: A study in environmentally relevant conditions through the use of mesocosms. Nanotoxicology, 10(2), 245-255.
+
+Article6:Chronic dosing of a simulated pond ecosystem in indoor aquatic mesocosms: fate and transport of CeO 2 nanoparticles.
+Reférence:Tella, M., Auffan, M., Brousset, L., Morel, E., Proux, O., Chanéac, C., ... and Rose, J. (2015). Chronic dosing of a simulated pond ecosystem in indoor aquatic mesocosms: fate and transport of CeO 2 nanoparticles. Environmental Science: Nano, 2(6), 653-663.
+
+Article7:Insight into mechanisms leading to the release of ceo2 nanoparticles embedded in an acrylic wood coating.
+Reférence:Scifo, L., Chaurand, P., Avellan, A., Bossa, N., Masion, A., Auffan, M., ... and Rose, J. (2014, November). Insight into mechanisms leading to the release of ceo2 nanoparticles embedded in an acrylic wood coating.
+
+Article8:Influence of structural defects of Ge-imogolite nanotubes on their toxicity towards Pseudomonas brassicacearum.
+Reférence:Avellan, A., Levard, C., Rose, J., Auffan, M., Bertrand, M., Olivi, L., ... and Masion, A. (2016). Influence of structural defects of Ge-imogolite nanotubes on their toxicity towards Pseudomonas brassicacearum. Environmental Science: Nano, 3(4), 839-846.
+
+Article9:DNA damage and oxidative stress induced by CeO2 nanoparticles in human dermal fibroblasts: Evidence of a clastogenic effect as a mechanism of genotoxicity. 
+Reférence:Benameur, L., Auffan, M., Cassien, M., Liu, W., Culcasi, M., Rahmouni, H., ... and Botta, A. (2015). DNA damage and oxidative stress induced by CeO2 nanoparticles in human dermal fibroblasts: Evidence of a clastogenic effect as a mechanism of genotoxicity. Nanotoxicology, 9(6), 696-705.
+
+Article10:Redox reactivity of cerium oxide nanoparticles induces the formation of disulfide bridges in thiol-containing biomolecules.
+Reférence:Rollin-Genetet, F., Seidel, C., Artells, E., Auffan, M., Thie´ry, A., and Vidaud, C. (2015). Redox reactivity of cerium oxide nanoparticles induces the formation of disulfide bridges in thiol-containing biomolecules. Chemical research in toxicology, 28(12), 2304-2312.
